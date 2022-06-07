@@ -1,15 +1,15 @@
-img.mainimg1 {
-  height: 480px;
-  width: 320px;
-  margin-left: 260px;
-  margin-top: 50px;
-}
 div.blogtitle {
   font-size: 30px;
   padding-left: 100px;
   padding-top: 25px;
   padding-bottom: 25px;
   border-bottom: 1px solid #000;
+}
+img.mainimg1 {
+  height: 480px;
+  width: 320px;
+  margin-left: 260px;
+  margin-top: 50px;
 }
 div.title1 {
   padding-left: 330px;
